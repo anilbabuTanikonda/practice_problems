@@ -1,6 +1,7 @@
 /*Find min and max elements in given array*/
 #include <stdio.h>
 #include<malloc.h>
+#include<stdlib.h>
 void min_max(int *a,int l)
 {
 	int i,min,max;
